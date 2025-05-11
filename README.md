@@ -106,7 +106,7 @@ yzta-datathon-grup103/
 ├── README.md               # Proje açıklaması
 ├── LICENSE                 # MIT Lisansı
 ├── requirements.txt        # Gerekli kütüphaneler
-├── grup-103.ipynb          # Ana notebook dosyası
+├── best_model.ipynb          # Ana notebook dosyası
 ├── usd_clean.csv           # USD/TRY kur verileri
 ├── sample_submission.csv   # Örnek submission dosyası
 └── en-iyi-sonuc-4.6025400670.csv # En iyi tahmin sonuçları
