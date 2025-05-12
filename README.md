@@ -2,7 +2,7 @@
 
 ## 📝 Proje Özeti
 
-Bu proje, **YZTA Datathon 2024** yarışması kapsamında  geliştirilen ürün fiyat tahmin modelini içermektedir. Modelim , çeşitli ürünlerin fiyatlarını tahmin etmek için **derin öğrenme teknikleri** kullanmakta ve **USD/TRY döviz kuru verileri** gibi dış etkenleri de hesaba katmaktadır.
+Bu proje, **YZTA Datathon 2024** yarışması kapsamında  geliştirilen ürün fiyat tahmin modelini içermektedir. Model , çeşitli ürünlerin fiyatlarını tahmin etmek için **derin öğrenme teknikleri** kullanmakta ve **USD/TRY döviz kuru verileri** gibi dış etkenleri de hesaba katmaktadır.
 
 ---
 
